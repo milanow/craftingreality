@@ -1,0 +1,101 @@
+{
+  "fill" : {
+    "automatic-gradient" : "display-p3:0.66542,0.80674,0.96783,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "blend-mode" : "hard-light",
+          "image-name" : "Yellow Triangle.png",
+          "name" : "Yellow Triangle",
+          "opacity" : 0.9,
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              -50,
+              100
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    },
+    {
+      "layers" : [
+        {
+          "blend-mode" : "hard-light",
+          "image-name" : "Blue Circle.png",
+          "name" : "Blue Circle",
+          "opacity" : 0.9,
+          "position" : {
+            "scale" : 1.1,
+            "translation-in-points" : [
+              150,
+              0
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    },
+    {
+      "layers" : [
+        {
+          "blend-mode" : "lighten",
+          "image-name" : "Red Square.png",
+          "name" : "Red Square",
+          "opacity" : 0.9,
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              -150,
+              -150
+            ]
+          }
+        },
+        {
+          "blend-mode" : "normal",
+          "hidden" : false,
+          "image-name" : "circle-audio-wave-circular-music-sound-equalizer-abstract-radial-radio-and-voice-volume-symbol-png.png",
+          "name" : "circle-audio-wave-circular-music-sound-equalizer-abstract-radial-radio-and-voice-volume-symbol-png",
+          "position" : {
+            "scale" : 0.42,
+            "translation-in-points" : [
+              -12.7421875,
+              -6.365625
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
