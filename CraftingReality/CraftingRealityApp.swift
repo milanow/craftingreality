@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-@main
+// @main // Disabled for mobile demo - using CraftingRealityMobileApp instead
 struct CraftingRealityApp: App {
 
     @State private var appModel: AppModel = AppModel.shared
